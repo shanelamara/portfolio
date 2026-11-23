@@ -73,7 +73,7 @@ export default function PortfolioPage() {
             </div>
           </div>
           <div className="job">
-            <time>Nov 2026 – Dec 2026</time>
+            <time>Nov 2026 – Present</time>
             <div>
               <h4>Freelance Shopify Project Manager</h4>
               <div className="org">Freelance</div>
